@@ -1,0 +1,2 @@
+include ':app', ':mangai_button_lib'
+rootProject.name='OwnLibrary'
